@@ -1,0 +1,26 @@
+# ===== Keil MDK 中间产物 =====
+OBJ/
+Listings/
+
+# ===== Keil 生成文件 =====
+*.uvguix.*
+*.scvd
+*.opt.bak
+*.pack.bak
+
+# ===== 调试配置 =====
+DebugConfig/
+
+# ===== 编译日志（一次性） =====
+build_log.txt
+
+# ===== 系统杂项 =====
+Thumbs.db
+desktop.ini
+.DS_Store
+$RECYCLE.BIN/
+
+# ===== 压缩备份（桌面另存） =====
+*.rar
+*.zip
+*.7z
